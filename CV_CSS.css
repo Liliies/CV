@@ -1,1 +1,7 @@
 
+body {
+    font-family: sans-serif; 
+    width: 50%;
+    margin: 15px auto;
+    text-align: center;
+}
