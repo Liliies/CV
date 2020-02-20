@@ -1,7 +1,109 @@
-
 body {
     font-family: sans-serif; 
     width: 50%;
     margin: 15px auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
     text-align: center;
+    font-size: smaller;
+    color:  #0b5345 ;
+}
+
+.img {
+    margin-top: 2.5px;
+    margin-left: 2.5px;
+    width: 33%;
+    height: 245px;
+    border-right: 30px solid rgba(12, 156, 87, 0.3);
+    border-width: 2px;
+    float:left;
+    margin-right: 30px;   
+    border-right: 3px solid rgba(12, 156, 87, 0.3);
+}
+
+.titre {
+    margin-top: 30px;
+    margin-left: 90px;
+    height: 40px;
+    width: 450px;
+    font-size: large;
+    color:  #148f77 ;
+    text-align: center;
+    border-style: solid;
+    border-left: 2px;
+    border-right: 2px;
+    border-top: 2px;
+    border-color: rgba(20, 143, 119, 0.3);
+
+}
+.sous_titre {
+    margin-left: 60px;
+    text-align: justify;
+    font-size: small;
+    color:  #148f77 ;
+
+}
+.section1 {
+    height: 250px;
+    text-align: justify;
+    line-height: 20px;
+    border-right: 3px solid rgba(12, 156, 87, 0.3);
+    border-bottom: 3px solid rgba(12, 156, 87, 0.3);
+    border-top: 3px solid rgba(12, 156, 87, 0.3);
+    border-left: 3px solid rgba(12, 156, 87, 0.3);
+}
+
+.section2 {
+    height: 275px;
+    text-align: justify;
+    line-height: 20px;
+    border-right: 3px solid rgba(12, 156, 87, 0.3);
+    border-bottom: 3px solid rgba(12, 156, 87, 0.3);
+    border-top: 3px solid rgba(12, 156, 87, 0.3);
+    border-left: 3px solid rgba(12, 156, 87, 0.3);
+}
+
+.section3 {
+    height: 275px;
+    text-align: justify;
+    line-height: 20px;
+    border-right: 3px solid rgba(12, 156, 87, 0.3);
+    border-bottom: 3px solid rgba(12, 156, 87, 0.3);
+    border-top: 3px solid rgba(12, 156, 87, 0.3);
+    border-left: 3px solid rgba(12, 156, 87, 0.3);
+}
+
+.section4 {
+    height: 400px;
+    text-align: justify;
+    line-height: 20px;
+    border-right: 3px solid rgba(12, 156, 87, 0.3);
+    border-bottom: 3px solid rgba(12, 156, 87, 0.3);
+    border-top: 3px solid rgba(12, 156, 87, 0.3);
+    border-left: 3px solid rgba(12, 156, 87, 0.3);
+}
+
+
+.langue1 {
+    margin-left: 100px;
+    height: 23px;
+    width: 38px;
+}
+
+.langue2 {
+    margin-left: 100px;
+    height: 30px;
+    width: 45px;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.italique{
+    font-style: italic;
+}
+
+.liste  {
+        list-style-type: georgian;
 }
